@@ -1,0 +1,25 @@
+# Credenciales y variables de entorno
+.env
+.env.*
+!.env.example
+
+# Entornos virtuales de Python
+.venv/
+venv/
+
+# Archivos temporales de Python
+__pycache__/
+*.py[cod]
+
+# Configuración local
+instance/
+
+# Dependencias del frontend
+node_modules/
+
+# Archivos generados
+dist/
+build/
+
+# Archivos de los editores
+.vscode/
